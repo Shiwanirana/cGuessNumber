@@ -1,0 +1,16 @@
+C:\source\codeworks\winter20\cGuessNumber\bin\Debug\net5.0\cGuessNumber.exe
+C:\source\codeworks\winter20\cGuessNumber\bin\Debug\net5.0\cGuessNumber.deps.json
+C:\source\codeworks\winter20\cGuessNumber\bin\Debug\net5.0\cGuessNumber.runtimeconfig.json
+C:\source\codeworks\winter20\cGuessNumber\bin\Debug\net5.0\cGuessNumber.runtimeconfig.dev.json
+C:\source\codeworks\winter20\cGuessNumber\bin\Debug\net5.0\cGuessNumber.dll
+C:\source\codeworks\winter20\cGuessNumber\bin\Debug\net5.0\ref\cGuessNumber.dll
+C:\source\codeworks\winter20\cGuessNumber\bin\Debug\net5.0\cGuessNumber.pdb
+C:\source\codeworks\winter20\cGuessNumber\obj\Debug\net5.0\cGuessNumber.csprojAssemblyReference.cache
+C:\source\codeworks\winter20\cGuessNumber\obj\Debug\net5.0\cGuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\winter20\cGuessNumber\obj\Debug\net5.0\cGuessNumber.AssemblyInfoInputs.cache
+C:\source\codeworks\winter20\cGuessNumber\obj\Debug\net5.0\cGuessNumber.AssemblyInfo.cs
+C:\source\codeworks\winter20\cGuessNumber\obj\Debug\net5.0\cGuessNumber.csproj.CoreCompileInputs.cache
+C:\source\codeworks\winter20\cGuessNumber\obj\Debug\net5.0\cGuessNumber.dll
+C:\source\codeworks\winter20\cGuessNumber\obj\Debug\net5.0\ref\cGuessNumber.dll
+C:\source\codeworks\winter20\cGuessNumber\obj\Debug\net5.0\cGuessNumber.pdb
+C:\source\codeworks\winter20\cGuessNumber\obj\Debug\net5.0\cGuessNumber.genruntimeconfig.cache
